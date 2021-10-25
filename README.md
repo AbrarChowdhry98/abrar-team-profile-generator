@@ -23,7 +23,7 @@ https://github.com/AbrarChowdhry98/abrar-team-profile-generator
 
 
 ## Project Screenshot
-![team-profile-gen-Screenshot_01]()
+![team-profile-gen-Screenshot_01](https://github.com/AbrarChowdhry98/abrar-team-profile-generator/blob/main/src/images/Screenshot%20.jpg)
 
 ## Installation
 Clone the repository or download it to a local computer
